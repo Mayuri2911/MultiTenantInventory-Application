@@ -1,0 +1,14 @@
+D:\MultiTenantInventory Application\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\MultiTenantInventory Application\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\MultiTenantInventory Application\Domain\bin\Debug\net8.0\Domain.dll
+D:\MultiTenantInventory Application\Domain\bin\Debug\net8.0\Domain.pdb
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.dll
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.pdb
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\MultiTenantInventory Application\Domain\obj\Debug\net8.0\ref\Domain.dll
