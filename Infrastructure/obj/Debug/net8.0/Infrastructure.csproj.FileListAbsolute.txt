@@ -11,6 +11,7 @@ D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\Infrastructu
 D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
 D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
 D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
 D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 D:\MultiTenantInventory Application\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll

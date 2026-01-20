@@ -9,6 +9,7 @@ D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\Application.Gen
 D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
 D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
 D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\Application.sourcelink.json
 D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\Application.dll
 D:\MultiTenantInventory Application\Application\obj\Debug\net8.0\refint\Application.dll

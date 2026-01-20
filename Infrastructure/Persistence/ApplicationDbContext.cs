@@ -14,6 +14,6 @@ namespace Infrastructure.Persistence
         : base(options)
         {
         }
-        public DbSet<Tenant> Tenants { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }
