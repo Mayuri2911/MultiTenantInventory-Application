@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9I5qoJGOggV5eXY1rTouuXKxVcRNWbQGFL0ykvjh6crJUgabx8tWaBZYhNRhZlXvr0QgUqfSR2+hzVPh2Jg2g==",
+  "dgSpecHash": "ae1qXKDvfX44gJResdvEDOrIqPrM1QScBuxMPJgvwot3TYvqPYvy7TfTlX/qc1vYcERbNbfoVtQnNitvI7teeA==",
   "success": true,
   "projectFilePath": "D:\\MultiTenantInventory Application\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0\\microsoft.entityframeworkcore.tools.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

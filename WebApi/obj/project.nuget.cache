@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w7mbQ1xaMVuO6s1DtenANfYS6avVVh4DiOkdR1Jsi+HNsh6lVM4SYSAaCKvQqzDexeJXs6+j2EzY1itK9PrR7w==",
+  "dgSpecHash": "1puZQpaxvGmmHyDc1pugVv/gSpIhYNWfHwrkTD8WCuWYWA5wzB7GwPGsGLCfIPTmGtiJpjpX5KCaat2vr6eRuQ==",
   "success": true,
   "projectFilePath": "D:\\MultiTenantInventory Application\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
